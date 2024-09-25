@@ -1,0 +1,160 @@
+.whole-container{
+    width: 100%;
+    height: 100vh;
+    background-color: #f0f2f5;
+}
+.cover-photo-section{
+    width: 100%;
+    height: 250px;
+    background-color: #fff;
+    overflow: hidden;
+}
+.cover-photo img{
+    width: 100%;
+}
+.all-profile-filter{
+    width: 100%;
+    background-color: #fff;
+}
+.name-section{
+    width: 100%;
+    margin-top: -90px;
+    background-color: #fff;
+}
+.main-image img{
+    width: 35%;
+    height: 35%;
+    border-radius: 100%;
+    float: left;
+    padding: 6px;
+    background-color: gray;
+    margin-left: 45px;
+}
+.main-name{
+    padding-top: 18%;
+    margin-left: 290px;
+}
+.main-name h6{
+    color: gray;
+}
+
+.all-btn{
+    width: 100%;
+    padding-top: 18%;
+    float: right;
+    padding-left: 300px;
+    font-size: 45px;
+}
+.fa-github{
+    color: black;
+}
+.fa-linkedin-square{
+    color: #0077b5;
+}
+.fa-facebook-square{
+    color: #316FF6;
+}
+.fa.fa-instagram {
+    color: transparent;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+.fa-whatsapp{
+    color: #128C7E;
+  }
+  .fa-twitter-square{
+    color: #1DA1F2;
+  }
+.horizontal{
+    width: 100%;
+    padding: 20px 0px 0px 0px;
+    background-color: #fff;
+}
+.horizontal-line{
+    width: 100%;
+    background-color: gray;
+    height: 1px;
+}
+
+
+
+.filterDiv {
+    float: left;
+    background-color: #fff;
+    color: #000;
+    width: 100%;
+    display: none;
+    padding: 25px;
+    border-radius: 10px;
+}
+  
+.show {
+    display: block;
+}
+  
+.container2 {
+    margin-top: 20px;
+    overflow: hidden;
+}
+.btn {
+    border: none;
+    outline: none;
+    padding: 12px 16px;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    color: gray;
+}
+.btn:hover {
+    background-color: #ddd;
+}
+.btn.active {
+    background-color: #666;
+    color: white;
+}
+.all-filter-items{
+    padding-bottom: 30px;
+    background: #f0f2f5;
+}
+.filterDiv h5{
+    text-align: center;
+}
+.filterDiv p{
+    padding-top: 16px;
+    margin-bottom: 0px;
+}
+.filterDiv p{
+    padding-top: 16px;
+    margin-bottom: 0px;
+}
+.filterDiv p i{
+    margin-right: 10px;
+}
+.all-filter-items2{
+    margin-top: -50px;
+}
+.education img{
+    width: 100%;
+}
+.education b{
+    font-size: 20px;
+}
+.session{
+    background: #80808061;
+    color: #fff !important;
+    font-size: 15px !important;
+    padding: 2px 12px;
+    border-radius: 19px;
+    float: right;
+}
+.institute{
+    text-align: center;
+}
+.education h6{
+    padding: 10px 0px;
+}
+a .institute{
+    font-weight: 600;
+}
